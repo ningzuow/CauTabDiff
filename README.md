@@ -1,5 +1,5 @@
 # TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation
-
+# 因果模型代码，个人学习研究用
 <p align="center">
   <a href="https://github.com/MinkaiXu/TabDiff/blob/main/LICENSE">
     <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
