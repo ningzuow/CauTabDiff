@@ -5,7 +5,7 @@ data/*
 !/data/Info/
 
 wandb/
-eval/
+# eval/
 synthetic/
 impute/
 workspace/
